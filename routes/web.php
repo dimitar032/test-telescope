@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+//doing some new feature.... doing
+//doing some new feature.... doing
+//doing some new feature.... doing
+//doing some new feature.... doing
+//doing some new feature.... doing
+//doing some new feature.... doing
+//doing some new feature.... doing
